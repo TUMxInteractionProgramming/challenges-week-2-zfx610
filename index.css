@@ -15,7 +15,6 @@ button {
 }
 
 
-
 /*App bar */
 
 li {
@@ -27,7 +26,14 @@ li {
 
 /*Channels list */
 
+h1, small {
+    background-color: orange;
+}
 
+h2{
+    background-color: white;
+    font-size: medium;
+}
 
 /*Tab bar */
 
@@ -63,4 +69,13 @@ li {
 
 .own {
     margin-left: 17.5%;
+}
+
+em {
+    font-size: larger;
+    font-style: normal;
+}
+
+a {
+    color: black;
 }
